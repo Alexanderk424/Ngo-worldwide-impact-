@@ -23,4 +23,4 @@ To clone and edit the project locally:
 
 ```bash
 git clone https://github.com/Alexanderk424/Ngo-worldwide-impact-.git
-cd Ngo-worldwide-impact-
+cd Ngo-worldwide-impact----
